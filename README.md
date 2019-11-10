@@ -3,3 +3,4 @@ Machine learning models from scratch in python. Using only basic packages (i.e. 
 
 1. [K Nearest Neighbors (KNN)](https://github.com/wardzj08/ML_from_scratch/tree/master/knn)
 2. [Binary Logistic Regression](https://github.com/wardzj08/ML_from_scratch/tree/master/binary_logistic_regression)
+3. [Naive Bayes](https://github.com/wardzj08/ML_from_scratch/tree/master/naive_bayes)
